@@ -1,7 +1,7 @@
 # ⏱️ MeuCronometro - Cronômetro Digital em C#
 
 <div align="center">
-  <img src="https://via.placeholder.com/600x300?text=Screenshot+do+Cronometro" alt="Preview do MeuCronometro" width="500">
+  <img src="Captura de tela 2026-04-26 202915.png" alt="Preview do MeuCronometro" width="500">
   <p><i>Interface do cronômetro desenvolvida em C# Windows Forms</i></p>
 </div>
 
